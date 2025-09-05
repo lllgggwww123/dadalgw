@@ -1,2 +1,11 @@
 server:
-  port: 8888
+  port: 8081
+
+my:
+  mood:
+    today: "周五"
+    content: "开心"
+    author: "小程序员"
+  feature:
+    helloSwitch: false
+    closeMsg: "接口开放中，欢迎访问我的第一个spring boot项目！！！"
